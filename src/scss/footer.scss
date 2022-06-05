@@ -1,0 +1,16 @@
+.footer {
+  position: fixed;
+  left: 117px;
+  bottom: 15px;
+  // .footer__container
+
+  &__container {
+  }
+
+  // .footer__logo
+
+  &__logo {
+    display: inline-block;
+    font-size: 12px;
+  }
+}
